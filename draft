@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Welcome</title>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body bgcolor="#f3b8b0" onLoad="MM_preloadImages('https://i.imgur.com/66tgzwK.png')">
+<a href="https://sherrysicle.tumblr.com/tagged/modesty%20collection" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('modesty','','https://i.imgur.com/66tgzwK.png',1)"><img src="https://i.imgur.com/0Ynvkjz.jpg" alt="" width="100%" id="modesty"></a>
+</body>
+
+	<h1>
+	<font face="helvetica"
+		  font color="#FFFFFF"> 
+		<br><br>
+	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;welcome
+		<br><br>
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; to 
+		<br><br>
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; swee chin's
+		<br><br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; portfolio!
+		<br><br> </font> </h1>
+		
+		
+	<h1 align="right"> <a href="https://sherrysicle.tumblr.com/tagged/♡"> <font face="helvetica" font color="#FFFFFF"> <i>let's go... </i> </font></a></h1> 
+	
+	                   <h1>
+	<font face="helvetica" font color="#FFFFFF"> 
+<a href="https://sherrysicle.tumblr.com/tagged/fashion%20design" target="_blank">Fashion Design</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/photography" target="_blank">Photography</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/fashion%20photography" target="_blank">Fashion Photography</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/fashion%20illustration" target="_blank">Fashion Illustration</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/pencil" target="_blank">Drawing</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/procreate" target="_blank">Procreate</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/graphic%20design" target="_blank">Graphic Design</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/indesign" target="_blank">InDesign</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/photoshop" target="_blank">Photoshop</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/mood%20boards" target="_blank">Moodboards</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/social%20media" target="_blank">Social Media</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/sewing" target="_blank">Sewing</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/drafting" target="_blank">Drafting</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/draping" target="_blank">Draping</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/painting" target="_blank">Painting</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/illustrator" target="_blank">Illustrator</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/video" target="_blank">Video Editing</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/merchandising" target="_blank">Merchandising</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/post/710791205904089088" target="_blank">Technical Drawing</a>
+                         / 
+                        <a href="https://sherrysicle.tumblr.com/tagged/writing" target="_blank">Writing</a>
+                   </font> </h1>
+	
+
+</html>
